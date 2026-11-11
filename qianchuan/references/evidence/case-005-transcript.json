@@ -1,0 +1,1346 @@
+{
+  "time_domain": "source_asset",
+  "source_path": "/path/to/home/Desktop/20261102_120支混剪_口播_不一样的纯色.mp4",
+  "transcript": [
+    {
+      "endUs": 200000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 0,
+      "speaker": "Speaker 1",
+      "startUs": 0,
+      "text": "这"
+    },
+    {
+      "endUs": 320000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 1,
+      "speaker": "Speaker 1",
+      "startUs": 200000,
+      "text": "是"
+    },
+    {
+      "endUs": 480000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 2,
+      "speaker": "Speaker 1",
+      "startUs": 320000,
+      "text": "我"
+    },
+    {
+      "endUs": 680000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 3,
+      "speaker": "Speaker 1",
+      "startUs": 480000,
+      "text": "刚"
+    },
+    {
+      "endUs": 880000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 4,
+      "speaker": "Speaker 1",
+      "startUs": 680000,
+      "text": "收"
+    },
+    {
+      "endUs": 1000000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 5,
+      "speaker": "Speaker 1",
+      "startUs": 880000,
+      "text": "到"
+    },
+    {
+      "endUs": 1160000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 6,
+      "speaker": "Speaker 1",
+      "startUs": 1000000,
+      "text": "的"
+    },
+    {
+      "endUs": 1360000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 7,
+      "speaker": "Speaker 1",
+      "startUs": 1160000,
+      "text": "新"
+    },
+    {
+      "endUs": 1520000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 8,
+      "speaker": "Speaker 1",
+      "startUs": 1360000,
+      "text": "床"
+    },
+    {
+      "endUs": 1720000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 9,
+      "speaker": "Speaker 1",
+      "startUs": 1520000,
+      "text": "品，"
+    },
+    {
+      "endUs": 2000000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 10,
+      "speaker": "Speaker 1",
+      "startUs": 1920000,
+      "text": "它"
+    },
+    {
+      "endUs": 2200000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 11,
+      "speaker": "Speaker 1",
+      "startUs": 2040000,
+      "text": "是"
+    },
+    {
+      "endUs": 2400000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 12,
+      "speaker": "Speaker 1",
+      "startUs": 2200000,
+      "text": "纯"
+    },
+    {
+      "endUs": 2600000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 13,
+      "speaker": "Speaker 1",
+      "startUs": 2400000,
+      "text": "色"
+    },
+    {
+      "endUs": 2760000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 14,
+      "speaker": "Speaker 1",
+      "startUs": 2600000,
+      "text": "的，"
+    },
+    {
+      "endUs": 2960000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 15,
+      "speaker": "Speaker 1",
+      "startUs": 2760000,
+      "text": "也"
+    },
+    {
+      "endUs": 3160000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 16,
+      "speaker": "Speaker 1",
+      "startUs": 2960000,
+      "text": "是"
+    },
+    {
+      "endUs": 3360000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 17,
+      "speaker": "Speaker 1",
+      "startUs": 3160000,
+      "text": "纯"
+    },
+    {
+      "endUs": 3600000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 18,
+      "speaker": "Speaker 1",
+      "startUs": 3360000,
+      "text": "棉"
+    },
+    {
+      "endUs": 3840000,
+      "segmentIndex": 1,
+      "timing": "word",
+      "wordIndex": 19,
+      "speaker": "Speaker 1",
+      "startUs": 3600000,
+      "text": "的。"
+    },
+    {
+      "endUs": 4040000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 0,
+      "speaker": "Speaker 1",
+      "startUs": 3840000,
+      "text": "但"
+    },
+    {
+      "endUs": 4160000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 1,
+      "speaker": "Speaker 1",
+      "startUs": 4040000,
+      "text": "你"
+    },
+    {
+      "endUs": 4320000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 2,
+      "speaker": "Speaker 1",
+      "startUs": 4160000,
+      "text": "一"
+    },
+    {
+      "endUs": 4440000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 3,
+      "speaker": "Speaker 1",
+      "startUs": 4320000,
+      "text": "眼"
+    },
+    {
+      "endUs": 4560000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 4,
+      "speaker": "Speaker 1",
+      "startUs": 4440000,
+      "text": "就"
+    },
+    {
+      "endUs": 4720000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 5,
+      "speaker": "Speaker 1",
+      "startUs": 4560000,
+      "text": "能"
+    },
+    {
+      "endUs": 4840000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 6,
+      "speaker": "Speaker 1",
+      "startUs": 4720000,
+      "text": "看"
+    },
+    {
+      "endUs": 5040000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 7,
+      "speaker": "Speaker 1",
+      "startUs": 4840000,
+      "text": "出"
+    },
+    {
+      "endUs": 5160000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 8,
+      "speaker": "Speaker 1",
+      "startUs": 5080000,
+      "text": "它"
+    },
+    {
+      "endUs": 5400000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 9,
+      "speaker": "Speaker 1",
+      "startUs": 5200000,
+      "text": "和"
+    },
+    {
+      "endUs": 5600000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 10,
+      "speaker": "Speaker 1",
+      "startUs": 5400000,
+      "text": "普"
+    },
+    {
+      "endUs": 5720000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 11,
+      "speaker": "Speaker 1",
+      "startUs": 5600000,
+      "text": "通"
+    },
+    {
+      "endUs": 5920000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 12,
+      "speaker": "Speaker 1",
+      "startUs": 5760000,
+      "text": "床"
+    },
+    {
+      "endUs": 6080000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 13,
+      "speaker": "Speaker 1",
+      "startUs": 5920000,
+      "text": "品"
+    },
+    {
+      "endUs": 6280000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 14,
+      "speaker": "Speaker 1",
+      "startUs": 6080000,
+      "text": "的"
+    },
+    {
+      "endUs": 6440000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 15,
+      "speaker": "Speaker 1",
+      "startUs": 6280000,
+      "text": "质"
+    },
+    {
+      "endUs": 6680000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 16,
+      "speaker": "Speaker 1",
+      "startUs": 6440000,
+      "text": "感"
+    },
+    {
+      "endUs": 6920000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 17,
+      "speaker": "Speaker 1",
+      "startUs": 6720000,
+      "text": "不"
+    },
+    {
+      "endUs": 7040000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 18,
+      "speaker": "Speaker 1",
+      "startUs": 6920000,
+      "text": "太"
+    },
+    {
+      "endUs": 7200000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 19,
+      "speaker": "Speaker 1",
+      "startUs": 7040000,
+      "text": "一"
+    },
+    {
+      "endUs": 7320000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 20,
+      "speaker": "Speaker 1",
+      "startUs": 7200000,
+      "text": "样，"
+    },
+    {
+      "endUs": 7640000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 21,
+      "speaker": "Speaker 1",
+      "startUs": 7480000,
+      "text": "明"
+    },
+    {
+      "endUs": 7800000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 22,
+      "speaker": "Speaker 1",
+      "startUs": 7720000,
+      "text": "明"
+    },
+    {
+      "endUs": 7960000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 23,
+      "speaker": "Speaker 1",
+      "startUs": 7800000,
+      "text": "是"
+    },
+    {
+      "endUs": 8120000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 24,
+      "speaker": "Speaker 1",
+      "startUs": 7960000,
+      "text": "很"
+    },
+    {
+      "endUs": 8280000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 25,
+      "speaker": "Speaker 1",
+      "startUs": 8120000,
+      "text": "简"
+    },
+    {
+      "endUs": 8360000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 26,
+      "speaker": "Speaker 1",
+      "startUs": 8280000,
+      "text": "单"
+    },
+    {
+      "endUs": 8520000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 27,
+      "speaker": "Speaker 1",
+      "startUs": 8360000,
+      "text": "的"
+    },
+    {
+      "endUs": 8640000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 28,
+      "speaker": "Speaker 1",
+      "startUs": 8520000,
+      "text": "颜"
+    },
+    {
+      "endUs": 8830000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 29,
+      "speaker": "Speaker 1",
+      "startUs": 8640000,
+      "text": "色，"
+    },
+    {
+      "endUs": 9080000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 30,
+      "speaker": "Speaker 1",
+      "startUs": 8850000,
+      "text": "却"
+    },
+    {
+      "endUs": 9240000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 31,
+      "speaker": "Speaker 1",
+      "startUs": 9080000,
+      "text": "有"
+    },
+    {
+      "endUs": 9320000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 32,
+      "speaker": "Speaker 1",
+      "startUs": 9240000,
+      "text": "一"
+    },
+    {
+      "endUs": 9480000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 33,
+      "speaker": "Speaker 1",
+      "startUs": 9320000,
+      "text": "种"
+    },
+    {
+      "endUs": 9800000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 34,
+      "speaker": "Speaker 1",
+      "startUs": 9520000,
+      "text": "细"
+    },
+    {
+      "endUs": 9920000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 35,
+      "speaker": "Speaker 1",
+      "startUs": 9800000,
+      "text": "腻"
+    },
+    {
+      "endUs": 10400000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 36,
+      "speaker": "Speaker 1",
+      "startUs": 10120000,
+      "text": "柔"
+    },
+    {
+      "endUs": 10520000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 37,
+      "speaker": "Speaker 1",
+      "startUs": 10400000,
+      "text": "和"
+    },
+    {
+      "endUs": 10840000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 38,
+      "speaker": "Speaker 1",
+      "startUs": 10520000,
+      "text": "的"
+    },
+    {
+      "endUs": 11160000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 39,
+      "speaker": "Speaker 1",
+      "startUs": 10840000,
+      "text": "光"
+    },
+    {
+      "endUs": 11300000,
+      "segmentIndex": 2,
+      "timing": "word",
+      "wordIndex": 40,
+      "speaker": "Speaker 1",
+      "startUs": 11160000,
+      "text": "泽。"
+    },
+    {
+      "endUs": 11640000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "speaker": "Speaker 1",
+      "startUs": 11300000,
+      "text": "[0.34 seconds silent]"
+    },
+    {
+      "endUs": 11680000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 0,
+      "speaker": "Speaker 1",
+      "startUs": 11640000,
+      "text": "它"
+    },
+    {
+      "endUs": 11920000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 1,
+      "speaker": "Speaker 1",
+      "startUs": 11750000,
+      "text": "来"
+    },
+    {
+      "endUs": 12030000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 2,
+      "speaker": "Speaker 1",
+      "startUs": 11920000,
+      "text": "自"
+    },
+    {
+      "endUs": 12280000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 3,
+      "speaker": "Speaker 1",
+      "startUs": 12130000,
+      "text": "晚"
+    },
+    {
+      "endUs": 12440000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 4,
+      "speaker": "Speaker 1",
+      "startUs": 12280000,
+      "text": "安"
+    },
+    {
+      "endUs": 12640000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 5,
+      "speaker": "Speaker 1",
+      "startUs": 12570000,
+      "text": "学，"
+    },
+    {
+      "endUs": 13000000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 6,
+      "speaker": "Speaker 1",
+      "startUs": 12760000,
+      "text": "他"
+    },
+    {
+      "endUs": 13160000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 7,
+      "speaker": "Speaker 1",
+      "startUs": 13000000,
+      "text": "们"
+    },
+    {
+      "endUs": 13320000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 8,
+      "speaker": "Speaker 1",
+      "startUs": 13160000,
+      "text": "的"
+    },
+    {
+      "endUs": 13440000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 9,
+      "speaker": "Speaker 1",
+      "startUs": 13320000,
+      "text": "床"
+    },
+    {
+      "endUs": 13640000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 10,
+      "speaker": "Speaker 1",
+      "startUs": 13440000,
+      "text": "品"
+    },
+    {
+      "endUs": 13800000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 11,
+      "speaker": "Speaker 1",
+      "startUs": 13640000,
+      "text": "都"
+    },
+    {
+      "endUs": 13920000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 12,
+      "speaker": "Speaker 1",
+      "startUs": 13800000,
+      "text": "是"
+    },
+    {
+      "endUs": 14120000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 13,
+      "speaker": "Speaker 1",
+      "startUs": 13920000,
+      "text": "用"
+    },
+    {
+      "endUs": 14460000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 14,
+      "speaker": "Speaker 1",
+      "startUs": 14120000,
+      "text": "高"
+    },
+    {
+      "endUs": 14680000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 15,
+      "speaker": "Speaker 1",
+      "startUs": 14460000,
+      "text": "支"
+    },
+    {
+      "endUs": 14920000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 16,
+      "speaker": "Speaker 1",
+      "startUs": 14680000,
+      "text": "高"
+    },
+    {
+      "endUs": 15080000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 17,
+      "speaker": "Speaker 1",
+      "startUs": 14920000,
+      "text": "密"
+    },
+    {
+      "endUs": 15240000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 18,
+      "speaker": "Speaker 1",
+      "startUs": 15080000,
+      "text": "的"
+    },
+    {
+      "endUs": 15400000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 19,
+      "speaker": "Speaker 1",
+      "startUs": 15240000,
+      "text": "面"
+    },
+    {
+      "endUs": 15660000,
+      "segmentIndex": 3,
+      "timing": "word",
+      "wordIndex": 20,
+      "speaker": "Speaker 1",
+      "startUs": 15400000,
+      "text": "料。"
+    },
+    {
+      "endUs": 16010000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 0,
+      "speaker": "Speaker 1",
+      "startUs": 15890000,
+      "text": "可"
+    },
+    {
+      "endUs": 16090000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 1,
+      "speaker": "Speaker 1",
+      "startUs": 16010000,
+      "text": "以"
+    },
+    {
+      "endUs": 16290000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 2,
+      "speaker": "Speaker 1",
+      "startUs": 16090000,
+      "text": "让"
+    },
+    {
+      "endUs": 16450000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 3,
+      "speaker": "Speaker 1",
+      "startUs": 16290000,
+      "text": "床"
+    },
+    {
+      "endUs": 16770000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 4,
+      "speaker": "Speaker 1",
+      "startUs": 16450000,
+      "text": "品"
+    },
+    {
+      "endUs": 16930000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 5,
+      "speaker": "Speaker 1",
+      "startUs": 16770000,
+      "text": "呈"
+    },
+    {
+      "endUs": 17090000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 6,
+      "speaker": "Speaker 1",
+      "startUs": 16930000,
+      "text": "现"
+    },
+    {
+      "endUs": 17250000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 7,
+      "speaker": "Speaker 1",
+      "startUs": 17090000,
+      "text": "出"
+    },
+    {
+      "endUs": 17450000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 8,
+      "speaker": "Speaker 1",
+      "startUs": 17250000,
+      "text": "这"
+    },
+    {
+      "endUs": 17530000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 9,
+      "speaker": "Speaker 1",
+      "startUs": 17450000,
+      "text": "种"
+    },
+    {
+      "endUs": 17890000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 10,
+      "speaker": "Speaker 1",
+      "startUs": 17630000,
+      "text": "细"
+    },
+    {
+      "endUs": 17970000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 11,
+      "speaker": "Speaker 1",
+      "startUs": 17890000,
+      "text": "腻"
+    },
+    {
+      "endUs": 18250000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 12,
+      "speaker": "Speaker 1",
+      "startUs": 18010000,
+      "text": "光"
+    },
+    {
+      "endUs": 18330000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 13,
+      "speaker": "Speaker 1",
+      "startUs": 18250000,
+      "text": "泽"
+    },
+    {
+      "endUs": 18560000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 14,
+      "speaker": "Speaker 1",
+      "startUs": 18330000,
+      "text": "和"
+    },
+    {
+      "endUs": 18640000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 15,
+      "speaker": "Speaker 1",
+      "startUs": 18560000,
+      "text": "层"
+    },
+    {
+      "endUs": 18760000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 16,
+      "speaker": "Speaker 1",
+      "startUs": 18660000,
+      "text": "次，"
+    },
+    {
+      "endUs": 19250000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 17,
+      "speaker": "Speaker 1",
+      "startUs": 18990000,
+      "text": "摸"
+    },
+    {
+      "endUs": 19410000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 18,
+      "speaker": "Speaker 1",
+      "startUs": 19250000,
+      "text": "起"
+    },
+    {
+      "endUs": 19620000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 19,
+      "speaker": "Speaker 1",
+      "startUs": 19410000,
+      "text": "来"
+    },
+    {
+      "endUs": 19850000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 20,
+      "speaker": "Speaker 1",
+      "startUs": 19620000,
+      "text": "也"
+    },
+    {
+      "endUs": 20090000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 21,
+      "speaker": "Speaker 1",
+      "startUs": 19850000,
+      "text": "是"
+    },
+    {
+      "endUs": 20370000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 22,
+      "speaker": "Speaker 1",
+      "startUs": 20130000,
+      "text": "丝"
+    },
+    {
+      "endUs": 20650000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 23,
+      "speaker": "Speaker 1",
+      "startUs": 20370000,
+      "text": "滑"
+    },
+    {
+      "endUs": 21000000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 24,
+      "speaker": "Speaker 1",
+      "startUs": 20730000,
+      "text": "软"
+    },
+    {
+      "endUs": 21300000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 25,
+      "speaker": "Speaker 1",
+      "startUs": 21020000,
+      "text": "糯，"
+    },
+    {
+      "endUs": 21530000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 26,
+      "speaker": "Speaker 1",
+      "startUs": 21350000,
+      "text": "带"
+    },
+    {
+      "endUs": 21690000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 27,
+      "speaker": "Speaker 1",
+      "startUs": 21530000,
+      "text": "着"
+    },
+    {
+      "endUs": 21890000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 28,
+      "speaker": "Speaker 1",
+      "startUs": 21690000,
+      "text": "自"
+    },
+    {
+      "endUs": 22010000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 29,
+      "speaker": "Speaker 1",
+      "startUs": 21890000,
+      "text": "然"
+    },
+    {
+      "endUs": 22170000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 30,
+      "speaker": "Speaker 1",
+      "startUs": 22010000,
+      "text": "的"
+    },
+    {
+      "endUs": 22290000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 31,
+      "speaker": "Speaker 1",
+      "startUs": 22170000,
+      "text": "垂"
+    },
+    {
+      "endUs": 22490000,
+      "segmentIndex": 4,
+      "timing": "word",
+      "wordIndex": 32,
+      "speaker": "Speaker 1",
+      "startUs": 22330000,
+      "text": "感。"
+    },
+    {
+      "endUs": 22690000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 0,
+      "speaker": "Speaker 1",
+      "startUs": 22570000,
+      "text": "通"
+    },
+    {
+      "endUs": 22770000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 1,
+      "speaker": "Speaker 1",
+      "startUs": 22690000,
+      "text": "过"
+    },
+    {
+      "endUs": 22890000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 2,
+      "speaker": "Speaker 1",
+      "startUs": 22770000,
+      "text": "了"
+    },
+    {
+      "endUs": 23480000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 3,
+      "speaker": "Speaker 1",
+      "startUs": 22890000,
+      "text": "Oeko-Tex"
+    },
+    {
+      "endUs": 23650000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 4,
+      "speaker": "Speaker 1",
+      "startUs": 23490000,
+      "text": "的"
+    },
+    {
+      "endUs": 23810000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 5,
+      "speaker": "Speaker 1",
+      "startUs": 23650000,
+      "text": "认"
+    },
+    {
+      "endUs": 23930000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 6,
+      "speaker": "Speaker 1",
+      "startUs": 23810000,
+      "text": "证，"
+    },
+    {
+      "endUs": 24370000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 7,
+      "speaker": "Speaker 1",
+      "startUs": 24050000,
+      "text": "在"
+    },
+    {
+      "endUs": 24570000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 8,
+      "speaker": "Speaker 1",
+      "startUs": 24370000,
+      "text": "设"
+    },
+    {
+      "endUs": 24690000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 9,
+      "speaker": "Speaker 1",
+      "startUs": 24570000,
+      "text": "计"
+    },
+    {
+      "endUs": 24930000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 10,
+      "speaker": "Speaker 1",
+      "startUs": 24690000,
+      "text": "与"
+    },
+    {
+      "endUs": 25090000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 11,
+      "speaker": "Speaker 1",
+      "startUs": 24930000,
+      "text": "舒"
+    },
+    {
+      "endUs": 25170000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 12,
+      "speaker": "Speaker 1",
+      "startUs": 25090000,
+      "text": "适"
+    },
+    {
+      "endUs": 25330000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 13,
+      "speaker": "Speaker 1",
+      "startUs": 25170000,
+      "text": "度"
+    },
+    {
+      "endUs": 25530000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 14,
+      "speaker": "Speaker 1",
+      "startUs": 25330000,
+      "text": "上"
+    },
+    {
+      "endUs": 25730000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 15,
+      "speaker": "Speaker 1",
+      "startUs": 25530000,
+      "text": "是"
+    },
+    {
+      "endUs": 25930000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 16,
+      "speaker": "Speaker 1",
+      "startUs": 25780000,
+      "text": "非"
+    },
+    {
+      "endUs": 26050000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 17,
+      "speaker": "Speaker 1",
+      "startUs": 25930000,
+      "text": "常"
+    },
+    {
+      "endUs": 26210000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 18,
+      "speaker": "Speaker 1",
+      "startUs": 26050000,
+      "text": "棒"
+    },
+    {
+      "endUs": 26410000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 19,
+      "speaker": "Speaker 1",
+      "startUs": 26210000,
+      "text": "的，"
+    },
+    {
+      "endUs": 26610000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 20,
+      "speaker": "Speaker 1",
+      "startUs": 26440000,
+      "text": "各"
+    },
+    {
+      "endUs": 26770000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 21,
+      "speaker": "Speaker 1",
+      "startUs": 26610000,
+      "text": "位"
+    },
+    {
+      "endUs": 26970000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 22,
+      "speaker": "Speaker 1",
+      "startUs": 26810000,
+      "text": "质"
+    },
+    {
+      "endUs": 27170000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 23,
+      "speaker": "Speaker 1",
+      "startUs": 26970000,
+      "text": "感"
+    },
+    {
+      "endUs": 27330000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 24,
+      "speaker": "Speaker 1",
+      "startUs": 27170000,
+      "text": "生"
+    },
+    {
+      "endUs": 27450000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 25,
+      "speaker": "Speaker 1",
+      "startUs": 27330000,
+      "text": "活"
+    },
+    {
+      "endUs": 27730000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 26,
+      "speaker": "Speaker 1",
+      "startUs": 27450000,
+      "text": "家"
+    },
+    {
+      "endUs": 27930000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 27,
+      "speaker": "Speaker 1",
+      "startUs": 27770000,
+      "text": "千"
+    },
+    {
+      "endUs": 28050000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 28,
+      "speaker": "Speaker 1",
+      "startUs": 27930000,
+      "text": "万"
+    },
+    {
+      "endUs": 28170000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 29,
+      "speaker": "Speaker 1",
+      "startUs": 28050000,
+      "text": "不"
+    },
+    {
+      "endUs": 28290000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 30,
+      "speaker": "Speaker 1",
+      "startUs": 28170000,
+      "text": "要"
+    },
+    {
+      "endUs": 28410000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 31,
+      "speaker": "Speaker 1",
+      "startUs": 28290000,
+      "text": "错"
+    },
+    {
+      "endUs": 28710000,
+      "segmentIndex": 5,
+      "timing": "word",
+      "wordIndex": 32,
+      "speaker": "Speaker 1",
+      "startUs": 28410000,
+      "text": "过。"
+    }
+  ]
+}

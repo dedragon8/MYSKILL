@@ -1,0 +1,126 @@
+Timeline "07｜质感卧室｜双面料与认证" LOCAL_ID | 1080x1920 30fps | 1287f (42.9s) | range [0,1287)
+Editor at turn start: playhead n/a | selected none | tracks LOCAL_001,LOCAL_002,LOCAL_003,LOCAL_004,LOCAL_005,LOCAL_006,LOCAL_007,LOCAL_008,LOCAL_009,LOCAL_010,LOCAL_011,LOCAL_012
+Views: timeline
+Timeline frames [from,to); src seconds; IDs: safe 10-char/full.
+Tracks 12 | showing 92 of 92 entries; timeline length 42.9 s
+Query: offset=0 limit=100
+V1 LOCAL_001 video order=0
+  [0,219) video LOCAL_013 placed "晚安学纯净版" asset LOCAL_014 src [103,110.3) disabled
+  [219,276) video LOCAL_015 placed "晚安学纯净版" asset LOCAL_014 src [110.3,112.2) disabled
+  [276,380) video LOCAL_016 placed "晚安学纯净版" asset LOCAL_014 src [36.166667,39.633334) disabled
+  [380,533) video LOCAL_017 placed "晚安学纯净版" asset LOCAL_014 src [47.5,52.6) disabled
+  [533,654) video LOCAL_018 placed "晚安学纯净版" asset LOCAL_014 src [62.3,66.333333) disabled
+  [654,1017) video LOCAL_019 placed "晚安学纯净版" asset LOCAL_014 src [90.9,103) disabled
+  [1017,1214) video LOCAL_020 placed "晚安学纯净版" asset LOCAL_014 src [66.466667,73.033334) disabled
+  [1214,1286) video LOCAL_021 placed "晚安学纯净版" asset LOCAL_014 src [73.02,75.42)
+  [1286,1287) gap
+V2 LOCAL_002 video order=1
+  [0,78) gap
+  [78,100) image LOCAL_022 placed "80支豹纹" asset LOCAL_023
+  [97,103) pixel-transition LOCAL_024 builtin:transition-page-curl LOCAL_022 -> LOCAL_025
+  [100,122) image LOCAL_025 placed "80支大理石" asset LOCAL_026
+  [119,125) pixel-transition LOCAL_027 builtin:transition-page-curl LOCAL_025 -> LOCAL_028
+  [122,144) image LOCAL_028 placed "天丝棉白红描边" asset LOCAL_029
+  [144,219) video LOCAL_030 placed "晚安学纯净版" asset LOCAL_014 src [25.5,28)
+  [219,233) image LOCAL_031 placed "80支肌理格纹黑褐格纹" asset LOCAL_032
+  [230,236) pixel-transition LOCAL_033 builtin:transition-page-curl LOCAL_031 -> LOCAL_034
+  [233,247) image LOCAL_034 placed "天丝棉磨毛蓝金条纹" asset LOCAL_035
+  [244,250) pixel-transition LOCAL_036 builtin:transition-page-curl LOCAL_034 -> LOCAL_037
+  [247,261) image LOCAL_037 placed "80支磨毛墨松绿" asset LOCAL_038
+  [258,264) pixel-transition LOCAL_039 builtin:transition-page-curl LOCAL_037 -> LOCAL_040
+  [261,276) image LOCAL_040 placed "款式_5_薄暮粉" asset LOCAL_041
+  [276,380) video LOCAL_042 placed "80支磨毛条纹-24" asset LOCAL_043 src [0.2,3.666667)
+  [380,475) video LOCAL_044 placed "80支磨毛条纹-31" asset LOCAL_045 src [0.2,3.366666)
+  [475,533) video LOCAL_046 placed "80支磨毛条纹-5" asset LOCAL_047 src [0.2,2.133334)
+  [533,658) video LOCAL_048 placed "80支磨毛纯色-26" asset LOCAL_049 src [0.2,4.366666)
+  [658,800) video LOCAL_050 placed "120支白色条纹-1" asset LOCAL_051 src [0.2,4.933334)
+  [800,886) video LOCAL_052 placed "120支蓝色条纹-1" asset LOCAL_053 src [0.1,2.393333) rate=0.8
+  [886,1017) video LOCAL_054 placed "120支象牙白-39" asset LOCAL_055 src [2.05,6.416667)
+  [1017,1078) video LOCAL_056 placed "120支绿色-8" asset LOCAL_057 src [1.353333,3.793333) rate=1.2
+  [1078,1214) video LOCAL_058 placed "120支象牙白-37" asset LOCAL_059 src [0,2.266667) rate=0.5
+  [1214,1287) gap
+V3 LOCAL_003 video order=2
+  [0,26) video LOCAL_060 placed "晚安学纯净版" asset LOCAL_014 src [103,103.866667)
+  [26,60) video LOCAL_061 placed "80支磨毛条纹-17" asset LOCAL_062 src [0.833333,2.363333) rate=1.35
+  [60,114) video LOCAL_063 placed "天丝棉磨毛红金条纹-7" asset LOCAL_064 src [2,3.53) rate=0.85
+  [114,171) video LOCAL_065 placed "80支大理石-15" asset LOCAL_066 src [0.1,2)
+  [171,276) gap
+  [276,322) video LOCAL_067 placed "80支磨毛条纹-25" asset LOCAL_068 src [3.033333,6.099999) rate=2
+  [322,383) video LOCAL_069 placed "80支磨毛纯色-37" asset LOCAL_070 src [3.333333,6.383334) rate=1.5
+  [383,430) gap
+  [430,490) video LOCAL_071 placed "80支磨毛纯色-29" asset LOCAL_072 src [0.2,2.2)
+  [490,530) gap
+  [530,582) video LOCAL_073 placed "80支磨毛纯色-23" asset LOCAL_074 src [0,1.733333)
+  [582,710) gap
+  [710,753) video LOCAL_075 placed "120支蓝色条纹-3" asset LOCAL_076 src [0.133333,1.566666)
+  [753,805) video LOCAL_077 placed "120支象牙白-47" asset LOCAL_078 src [0,1.733333)
+  [805,854) video LOCAL_079 placed "20240409_B3101" asset LOCAL_080 src [9.366667,11.000001)
+  [854,922) video LOCAL_081 placed "120支白色条纹-10" asset LOCAL_082 src [2.133333,4.399999)
+  [922,1094) gap
+  [1094,1214) image LOCAL_083 placed "GB18401A类认证" asset LOCAL_084
+  [1214,1287) gap
+V4 LOCAL_004 video order=3
+  [0,1132) gap
+  [1132,1214) image LOCAL_085 placed "OEKO-TEX国际安全认证" asset LOCAL_086
+  [1214,1287) gap
+V5 LOCAL_005 video order=4
+  [0,1174) gap
+  [1174,1214) image LOCAL_087 placed "3A抗菌认证" asset LOCAL_088
+  [1214,1287) gap
+V6 LOCAL_006 video order=5
+  [0,1287) gap
+A1 LOCAL_007 audio order=6
+  [0,219) audio LOCAL_089 placed "晚安学纯净版" asset LOCAL_014:video src [103,110.3) audio=embedded
+  [219,276) audio LOCAL_090 placed "晚安学纯净版" asset LOCAL_014:video src [110.31,112.21) audio=embedded
+  [276,380) audio LOCAL_091 placed "晚安学纯净版" asset LOCAL_014:video src [36.15,39.616667) audio=embedded
+  [380,532) audio LOCAL_092 placed "晚安学纯净版" asset LOCAL_014:video src [47.51,52.576666) audio=embedded
+  [532,533) gap
+  [533,657) audio LOCAL_093 placed "晚安学纯净版" asset LOCAL_014:video src [62.3,66.433333) audio=embedded
+  [657,1016) audio LOCAL_094 placed "晚安学纯净版" asset LOCAL_014:video src [91.006667,102.973334) audio=embedded
+  [1016,1017) gap
+  [1017,1213) audio LOCAL_095 placed "晚安学纯净版" asset LOCAL_014:video src [66.46,72.993333) audio=embedded
+  [1213,1214) gap
+  [1214,1286) audio LOCAL_096 placed "晚安学纯净版" asset LOCAL_014:video src [73.02,75.42) audio=embedded
+  [1286,1287) gap
+A2 LOCAL_008 audio order=7
+  [0,1287) audio LOCAL_097 placed "The fin. - Night Time" asset LOCAL_098 src [0.6,43.5)
+A3 LOCAL_009 audio order=8
+  [0,65) gap
+  [65,191) audio LOCAL_099 placed "80支大理石-15" asset LOCAL_066:video src [0,4.2) audio=embedded
+  [191,219) gap
+  [219,276) audio LOCAL_100 placed "翻书" asset LOCAL_101 src [0.2,2.1)
+  [276,309) gap
+  [309,549) audio LOCAL_102 placed "80支磨毛条纹-25" asset LOCAL_068:video src [0,8) audio=embedded
+  [549,560) gap
+  [560,680) audio LOCAL_103 placed "80支磨毛纯色-23" asset LOCAL_074:video src [0,4) audio=embedded
+  [680,1287) gap
+A4 LOCAL_010 audio order=9
+  [0,73) gap
+  [73,422) audio LOCAL_104 placed "天丝棉磨毛红金条纹-6" asset LOCAL_105:video src [0,11.633334) audio=embedded
+  [422,1129) gap
+  [1129,1230) audio LOCAL_106 placed "120支象牙白-37" asset LOCAL_059:video src [0,3.366667) audio=embedded
+  [1230,1287) gap
+A5 LOCAL_011 audio order=10
+  [0,56) gap
+  [56,276) audio LOCAL_107 placed "天丝棉磨毛红金条纹-7" asset LOCAL_064:video src [0,7.333333) audio=embedded
+  [276,334) gap
+  [334,531) audio LOCAL_108 placed "80支磨毛纯色-37" asset LOCAL_070:video src [0,6.566667) audio=embedded
+  [531,1287) gap
+A6 LOCAL_012 audio order=11
+  [0,1287) gap
+Links 13
+  LOCAL_109 LOCAL_089,LOCAL_013
+  LOCAL_110 LOCAL_090,LOCAL_015
+  LOCAL_111 LOCAL_091,LOCAL_016
+  LOCAL_112 LOCAL_092,LOCAL_017
+  LOCAL_113 LOCAL_093,LOCAL_018
+  LOCAL_114 LOCAL_094,LOCAL_019
+  LOCAL_115 LOCAL_095,LOCAL_020
+  LOCAL_116 LOCAL_067,LOCAL_102
+  LOCAL_117 LOCAL_063,LOCAL_107
+  LOCAL_118 LOCAL_065,LOCAL_099
+  LOCAL_119 LOCAL_069,LOCAL_108
+  LOCAL_120 LOCAL_058,LOCAL_106
+  LOCAL_121 LOCAL_073,LOCAL_103
+Groups 0/0
+Peers 0/0 (not on this page)

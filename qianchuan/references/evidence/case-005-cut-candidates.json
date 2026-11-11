@@ -1,0 +1,63 @@
+{
+  "time_domain": "source_asset",
+  "fps": 30,
+  "threshold": 0.12,
+  "candidate_cuts": [
+    {
+      "seconds": 0.867,
+      "sourceFrame": 26,
+      "score": 0.423693
+    },
+    {
+      "seconds": 2.733,
+      "sourceFrame": 82,
+      "score": 0.431647
+    },
+    {
+      "seconds": 4.533,
+      "sourceFrame": 136,
+      "score": 0.892163
+    },
+    {
+      "seconds": 7.5,
+      "sourceFrame": 225,
+      "score": 0.698613
+    },
+    {
+      "seconds": 9.233,
+      "sourceFrame": 277,
+      "score": 0.505242
+    },
+    {
+      "seconds": 14.2,
+      "sourceFrame": 426,
+      "score": 0.606629
+    },
+    {
+      "seconds": 16.067,
+      "sourceFrame": 482,
+      "score": 0.232821
+    },
+    {
+      "seconds": 21.167,
+      "sourceFrame": 635,
+      "score": 0.317902
+    },
+    {
+      "seconds": 22.967,
+      "sourceFrame": 689,
+      "score": 1
+    },
+    {
+      "seconds": 24.833,
+      "sourceFrame": 745,
+      "score": 0.694596
+    },
+    {
+      "seconds": 26.933,
+      "sourceFrame": 808,
+      "score": 0.342111
+    }
+  ],
+  "note": "Detector candidates only; dissolves and motion false positives were reviewed in the case notes. Do not count raw detections as all hard cuts."
+}

@@ -1,0 +1,123 @@
+{
+  "time_domain": "source_asset",
+  "fps": 30,
+  "threshold": 0.12,
+  "candidate_cuts": [
+    {
+      "seconds": 3.333,
+      "sourceFrame": 100,
+      "score": 0.24936
+    },
+    {
+      "seconds": 5.033,
+      "sourceFrame": 151,
+      "score": 0.498235
+    },
+    {
+      "seconds": 6.467,
+      "sourceFrame": 194,
+      "score": 0.162449
+    },
+    {
+      "seconds": 8.433,
+      "sourceFrame": 253,
+      "score": 0.57956
+    },
+    {
+      "seconds": 8.467,
+      "sourceFrame": 254,
+      "score": 0.202155
+    },
+    {
+      "seconds": 10.1,
+      "sourceFrame": 303,
+      "score": 0.393043
+    },
+    {
+      "seconds": 11.7,
+      "sourceFrame": 351,
+      "score": 0.347261
+    },
+    {
+      "seconds": 13.567,
+      "sourceFrame": 407,
+      "score": 0.737517
+    },
+    {
+      "seconds": 17.3,
+      "sourceFrame": 519,
+      "score": 0.227965
+    },
+    {
+      "seconds": 19.767,
+      "sourceFrame": 593,
+      "score": 0.729143
+    },
+    {
+      "seconds": 19.8,
+      "sourceFrame": 594,
+      "score": 0.129186
+    },
+    {
+      "seconds": 21.433,
+      "sourceFrame": 643,
+      "score": 0.374142
+    },
+    {
+      "seconds": 23.067,
+      "sourceFrame": 692,
+      "score": 0.496354
+    },
+    {
+      "seconds": 24.133,
+      "sourceFrame": 724,
+      "score": 0.193498
+    },
+    {
+      "seconds": 24.467,
+      "sourceFrame": 734,
+      "score": 0.273981
+    },
+    {
+      "seconds": 24.8,
+      "sourceFrame": 744,
+      "score": 0.29659
+    },
+    {
+      "seconds": 25.1,
+      "sourceFrame": 753,
+      "score": 0.290464
+    },
+    {
+      "seconds": 25.433,
+      "sourceFrame": 763,
+      "score": 0.26444
+    },
+    {
+      "seconds": 25.767,
+      "sourceFrame": 773,
+      "score": 0.242528
+    },
+    {
+      "seconds": 26.1,
+      "sourceFrame": 783,
+      "score": 0.233471
+    },
+    {
+      "seconds": 26.433,
+      "sourceFrame": 793,
+      "score": 0.220542
+    },
+    {
+      "seconds": 26.733,
+      "sourceFrame": 802,
+      "score": 0.204776
+    },
+    {
+      "seconds": 27.067,
+      "sourceFrame": 812,
+      "score": 0.143735
+    }
+  ],
+  "note": "Detector candidates only; dissolves and motion false positives were reviewed in the case notes. Do not count raw detections as all hard cuts."
+}

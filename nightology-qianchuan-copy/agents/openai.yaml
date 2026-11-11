@@ -1,0 +1,4 @@
+interface:
+  display_name: "晚安学千川拉新脚本"
+  short_description: "学习晚安学语言与产品卖点，以不同生活需求创作千川拉新口播并迭代"
+  default_prompt: "使用 $nightology-qianchuan-copy，根据已确认的晚安学产品信息，写三条不同拉新逻辑的千川口播脚本。"
